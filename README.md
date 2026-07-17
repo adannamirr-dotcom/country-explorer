@@ -35,19 +35,6 @@ Users can search for any country, view detailed information, visualize its borde
 
 ---
 
-## Data Sources
-
-Country information:
-- REST Countries API dataset
-
-Country borders:
-- GeoJSON dataset
-
-State/Province boundaries:
-- GeoJSON administrative boundary dataset
-
----
-
 ## Performance Optimization
 
 The original state dataset was over **340 MB**, making it unsuitable for GitHub and causing slow loading times.
